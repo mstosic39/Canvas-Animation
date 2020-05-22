@@ -85,7 +85,14 @@ setInterval(
  	function(){
  		clear();
  		singleCanvasDraw();	
- 	}, 1000/12);
+	 }, 1000/12);
+	 
+
+
+
+
+
+	//  
 
 
 
